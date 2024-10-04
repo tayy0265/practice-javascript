@@ -16,3 +16,4 @@ monthselect(){
        option.textContent = i;
        monthselect.appendChild(option);
   }
+}
