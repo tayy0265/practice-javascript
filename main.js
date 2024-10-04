@@ -15,5 +15,5 @@ function errorInput(){
          option.value = i;
          option.textContent = i;
          monthselect.appendChild(option);
-    }
   }
+}
